@@ -13,6 +13,11 @@ NEXERA Lungs is a deep learning system that analyses lung CT scans and classifie
 
 It is one module of **NEXERA**, an AI medical imaging diagnostics platform that also covers brain MRI and diabetic retinopathy.
 
+## Dashboard Preview
+
+![NEXERA Lungs Dashboard](dashboard.png)
+
+
 ## Features
 
 - **Single Scan Analysis**: upload one CT scan and get a prediction with confidence
