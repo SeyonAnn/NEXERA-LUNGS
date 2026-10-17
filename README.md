@@ -42,8 +42,8 @@ NEXERA-Lungs/
 ## How to Run
 
 ```bash
-git clone https://github.com/SeyonAnn/nexera-lungs.git
-cd nexera-lungs
+git clone https://github.com/SeyonAnn/NEXERA-LUNGS.git
+cd NEXERA-LUNGS
 pip install -r requirements.txt
 streamlit run app.py
 ```
