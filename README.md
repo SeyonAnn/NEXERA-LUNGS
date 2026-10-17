@@ -50,8 +50,10 @@ streamlit run app.py
 
 ## Results
 
-- Accuracy: **XX%** (add your number)
-- Dataset: balanced lung CT dataset (add name and source)
+- Task: binary classification of lung CT scans (Normal vs Pneumonia)
+- Model: MobileNetV2 (frozen base, transfer learning)
+- Test accuracy: **97.97%**
+- Dataset: balanced lung CT dataset (harshkumarcn005/pneumonia-ct-scan-image-dataset)
 
 ## Disclaimer
 
